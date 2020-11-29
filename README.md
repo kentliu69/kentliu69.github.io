@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Stylish Portfolio Preview](https://assets.startbootstrap.com/img/screenshots/themes/stylish-portfolio.png)](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)
+[![Stylish Portfolio Preview](https://kissfmmedan.com/wp-content/uploads/2019/07/kocheng-oren.png)](https://kentliu69.github.io/)
 
 **[View Live Preview](https://kentliu69.github.io/)**
 
