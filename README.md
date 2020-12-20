@@ -18,7 +18,7 @@ ini jodoel
 
 ## About
 
-dibuat karna gabut
+dibuat karna gabut.
 
 ## Copyright and License
 
